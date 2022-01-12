@@ -12,7 +12,7 @@ sidebar:
   - nav: "prospect-nav"
 ---
 
-# Background for the PROSPeCT study
+# Background of the PROSPeCT study
 
 Colorectal cancer is one of the commonest causes of cancer death worldwide. In the UK there are approximately 42,000 new cases annually. Up to 50% of patients still die from their disease ultimately. Surgery remains the mainstay of curative treatment, and refinement in surgical technique, e.g. total mesorectal excision for rectal cancer, has improved local recurrence rate. However, distant relapse rates have remained relatively stable despite ‘potentially curative’ surgery, with up to 50% developing metastases by 5 years. Ultimate patient outcome is very poor once metastases are present with 5-yr survival as low as 3%. 
 

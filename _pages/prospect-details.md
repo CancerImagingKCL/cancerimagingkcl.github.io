@@ -14,10 +14,10 @@ sidebar:
 
 # Study details
 
-**Main sponsor:** King’s College London
+**Main sponsor:** King’s College London<br>
 **Funders:** NIHR Health Technology Assessment programme
 
 **Trial Coordinating Centre:** Cancer Clinical Trials Unit, Scotland (CaCTUS), Scottish Clinical Trials Research Unit, Edinburgh
 
-**Chief Investigator:** Vicky Goh
+**Chief Investigator:** Vicky Goh<br>
 **Trial Statistician:** Susan Mallett
