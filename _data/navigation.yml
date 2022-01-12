@@ -9,11 +9,9 @@ main:
     url: /about/
 
 prospect-nav:
-  - title: "Study pages"
-    children:
-      - title: "About PROSPeCT"
-        url: /prospect
-      - title: "Background"
-        url: /prospect-background
-      - title: "Study details"
-        url: /prospect-details
+  - title: "About PROSPeCT"
+    url: /prospect
+  - title: "Background"
+    url: /prospect-background
+  - title: "Study details"
+    url: /prospect-details
