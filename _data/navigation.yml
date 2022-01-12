@@ -9,9 +9,13 @@ main:
     url: /about/
 
 prospect-nav:
-  - title: "About PROSPeCT"
-    url: /prospect
-  - title: "Background"
-    url: /prospect-background
-  - title: "Study details"
-    url: /prospect-details
+  - title: "PROSPeCT study"
+    image: /assets/images/Prospect-logo.jpg
+    image_alt: "Prospect logo"
+    children:
+      - title: "About PROSPeCT"
+        url: /prospect
+    - title: "Background"
+      url: /prospect-background
+    - title: "Study details"
+      url: /prospect-details
