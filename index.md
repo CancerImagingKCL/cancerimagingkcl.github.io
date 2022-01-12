@@ -16,7 +16,7 @@ feature_row_prospect:
     title: "PROSPeCT"
     excerpt: "A multi-centre study aiming to improve the prediction of metastatic disease in primary colorectal cancer"
     url: "/prospect"
-    btn_label: "Read More"
+    btn_label: "Read more"
     btn_class: "btn--primary"
 ---
 
