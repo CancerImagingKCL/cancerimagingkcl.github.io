@@ -22,4 +22,3 @@ feature_row_about_us:
 ---
 
 {% include feature_row id="intro" type="center" %}
-{% include feature_row id="feature_row_about_us" type="left" %}
