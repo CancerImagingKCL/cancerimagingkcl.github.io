@@ -37,8 +37,17 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CancerImagingKCL/cancerimagingkcl.github.io"
 
-# NOTHING IN FOOTER?
+# Footer
+footer:
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.kcl.ac.uk/bmeis/our-departments/cancer-imaging"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/CancerImagingKCL/cancerimagingkcl.github.io"
 
+# Default page values
 defaults:
   # _pages
   - scope:
