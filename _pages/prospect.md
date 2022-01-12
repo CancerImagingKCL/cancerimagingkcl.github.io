@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: /prospect
+author_profile: false
 header:
   overlay_image: /assets/images/Prospect-logo.jpg
 excerpt: >
