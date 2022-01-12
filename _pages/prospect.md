@@ -9,10 +9,10 @@ excerpt: "A multi-centre study aiming to improve the prediction of metastatic di
 sidebar:
   - image: /assets/images/Prospect-logo.jpg
     image_alt: "Prospect logo"
-
+  - nav: "prospect-nav"
 ---
 
-#About the PROSPeCT study#
+# About the PROSPeCT study
 
 Bowel cancer has one of the highest death rates of any cancer worldwide. In the UK, there are approximately 42,000 new cases annually. Up to 50% of patients will ultimately die from their disease. Removing the cancer with surgery is the main form of treatment, and refinement in surgical technique has lowered the chance of the cancer returning at the site of surgery. However, despite removing the cancer from the bowel, cancer can still spread to other parts of the body (metastasize). This has meant that up to 50% of patients may develop metastases by 5 years. Distant relapse rates have remained relatively stable in recent years. Patient outcome is very poor once the cancer has spread. 
 

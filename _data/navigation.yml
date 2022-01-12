@@ -7,3 +7,11 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+
+prospect-nav:
+  - title: "About PROSPeCT"
+    url: /prospect
+  - title: "Background"
+    url: /prospect-background
+  - title: "Study details"
+    url: /prospect-details
