@@ -9,11 +9,6 @@ excerpt: "A multi-centre study aiming to improve the prediction of metastatic di
 sidebar:
   - image: /assets/images/Prospect-logo.jpg
     image_alt: "Prospect logo"
-    text: "**Main sponsor:** King’s College London<br>
-    **Funders:** NIHR Health Technology Assessment programme<br>
-    **Trial Coordinating Centre:** Cancer Clinical Trials Unit, Scotland (CaCTUS), Scottish Clinical Trials Research Unit, Edinburgh
-    **Chief Investigator:** Vicky Goh
-    **Trial Statistician:** Susan Mallett"
   - nav: "prospect-nav"
 ---
 
