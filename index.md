@@ -13,9 +13,9 @@ intro:
     *This site is currently under construction, so please excuse us if it's a bit untidy.*
 feature_row_about_us:
   - image_path: /assets/images/bio-photo.jpg
-    alt: placeholder image
-    title: About Cancer Imaging
-    excerpt: Find out more about the Department of Cancer Imaging
+    alt: "placeholder image"
+    title: "About Cancer Imaging"
+    excerpt: "Find out more about the Department of Cancer Imaging"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
