@@ -8,7 +8,7 @@ excerpt: >
     Welcome to the GitHub Pages website of the Department of Cancer Imaging, in the School of Biomedical Engineering and Imaging Sciences, King's College London. 
 intro:
     - excerpt: "Here, you can find out about us, and the work we are doing.<br>
-    If you're looking for the offical, King's website, follow the link at the bottom.<br>
+    If you're looking for the official, King's website, follow the link at the bottom.<br>
     *This site is currently under construction, so please excuse us if it's a bit untidy.*"
 feature_row_prospect:
   - image_path: /assets/images/Prospect-logo.jpg
