@@ -40,7 +40,7 @@ author:
 # Footer
 footer:
   links:
-    - label: "Website"
+    - label: "King's website"
       icon: "fas fa-fw fa-link"
       url: "https://www.kcl.ac.uk/bmeis/our-departments/cancer-imaging"
     - label: "GitHub"
