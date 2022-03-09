@@ -8,3 +8,5 @@ prospect-nav:
     url: /prospect-background
   - title: "Study details"
     url: /prospect-details
+  - title: "Contact"
+    url: /prospect-contact
