@@ -24,7 +24,7 @@ sidebar:
 
   <input type="email" id="email" name="email" placeholder="Email address" required><br>
 
-  <input type="text" id="query" name="query" placeholder="Your query" style="height: 128px" required><br>
+  <input type="text" id="query" name="query" placeholder="Your query" required><br>
 
   <button type="submit">Send</button>
 </form>
