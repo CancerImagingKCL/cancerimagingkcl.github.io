@@ -24,7 +24,7 @@ sidebar:
 
   <input type="email" id="email" name="email" placeholder="Email address" required><br>
 
-  <input type="text" id="query" name="query" placeholder="Your query" required><br>
+  <textarea id="query" name="query" placeholder="Your query" rows="5" required></textarea>
 
   <button type="submit">Send</button>
 </form>
