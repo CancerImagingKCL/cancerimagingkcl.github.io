@@ -28,7 +28,8 @@ sidebar:
 
   <textarea id="query" name="query" placeholder="Your query, if applicable" rows="3"></textarea>
 
-  <input type="checkbox" id="request-check" name="request-check"><br>
+  <input type="checkbox" id="request-check" name="request-check" value="Request">
+  <label for="request-check"> Request access to data</label><br>
 
   <input type="file" id="request-doc" name="request-doc"><br>
 
