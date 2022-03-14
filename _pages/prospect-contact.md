@@ -14,17 +14,23 @@ sidebar:
 
 # Contacting us about PROSPeCT
 
-*For enquiries about the PROSPeCT study, please enter your details and query in the form below.*
+*For enquiries about the PROSPeCT study, please enter your details and query in the form below. If you would like access to PROSPeCT data, please check the relevant box, and download, complete, and submit the request document (link below) with the form.*
 
-<form action="https://smartforms.dev/submit/6220bbf77a195017922de9f8" method="POST">
+<a href="../assets/documents/data-request-form.docx" download>Download data request document</a>
 
-  <input type="text" id="fname" name="fname" placeholder="First name" required><br>
+<form action="https://smartforms.dev/submit/6220bbf77a195017922de9f8" method="POST" enctype="multipart/form-data">
 
-  <input type="text" id="sname" name="sname" placeholder="Surname" required><br>
+  <input type="text" id="first-name" name="first-name" placeholder="First name" required><br>
+
+  <input type="text" id="surname" name="surname" placeholder="Surname" required><br>
 
   <input type="email" id="email" name="email" placeholder="Email address" required><br>
 
-  <textarea id="query" name="query" placeholder="Your query" rows="5" required></textarea>
+  <textarea id="query" name="query" placeholder="Your query, if applicable" rows="3"></textarea>
+
+  <input type="checkbox" id="request-check" name="request-check>
+
+  <input type="file" id="request-doc" name="request-doc"><br>
 
   <button type="submit">Send</button>
 </form>
