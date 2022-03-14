@@ -26,9 +26,10 @@ sidebar:
 
   <input type="email" id="email" name="email" placeholder="Email address" required><br>
 
-  <textarea id="query" name="query" placeholder="Your query, if applicable" rows="3"></textarea>
+  <textarea id="query" name="query" placeholder="Your query, if applicable" rows="3"></textarea><br>
 
-  <input type="checkbox" id="request-check" name="request-check" value="Request"><label for="request-check"> Request access to data</label><br>
+  <input type="checkbox" id="request-check" name="request-check" value="Request">
+  <label for="request-check"> Request access to data</label><br>
 
   <input type="file" id="request-doc" name="request-doc"><br>
 
