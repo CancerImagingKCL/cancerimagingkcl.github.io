@@ -14,7 +14,9 @@ sidebar:
 
 # Contacting us about PROSPeCT
 
-*For enquiries about the PROSPeCT study, please enter your details and query in the form below. If you would like access to PROSPeCT data, please check the relevant box, and download, complete, and submit the request document (link below) with the form.*
+*For enquiries regarding the PROSPeCT study, please enter your details and query in the form below.*
+
+*If you would like to access specific PROSPeCT data, please check the relevant box when filling out your query. You will first need to download and complete the data request form (link below). Once completed please submit by attaching to the query box below.*
 
 <a href="../assets/documents/PROSPECT_Data_Request_Form.docx" download>Download data request document</a>
 
