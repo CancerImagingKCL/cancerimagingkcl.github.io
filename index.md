@@ -22,4 +22,5 @@ feature_row_prospect:
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row id="feature_row_prospect" type="left" %}
-{% include google4143d2aac3a08742.html %}
+
+<meta name="google-site-verification" content="D1CVPpGV4h1wf5KWo1wtttFVRjvERSdO6TcictL1Y-w" />
