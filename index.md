@@ -23,4 +23,6 @@ feature_row_prospect:
 {% include feature_row id="intro" type="center" %}
 {% include feature_row id="feature_row_prospect" type="left" %}
 
-<meta name="google-site-verification" content="D1CVPpGV4h1wf5KWo1wtttFVRjvERSdO6TcictL1Y-w" />
+<head>
+  <meta name="google-site-verification" content="D1CVPpGV4h1wf5KWo1wtttFVRjvERSdO6TcictL1Y-w" />
+</head>
