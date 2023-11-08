@@ -1,6 +1,5 @@
 main:
 
-
 prospect-nav:
   - title: "About PROSPeCT"
     url: /prospect
@@ -10,3 +9,11 @@ prospect-nav:
     url: /prospect-details
   - title: "Contact"
     url: /prospect-contact
+
+fast-nav:
+  - title: "About FAST"
+    url: /fast
+  - title: "Radiomics"
+    url: /fast-radiomics
+  - title: "Image filters"
+    url: /fast-filtering
